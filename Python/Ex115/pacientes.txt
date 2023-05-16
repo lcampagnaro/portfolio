@@ -3,3 +3,5 @@ Daniele;35
 Isabella;10
 Leonardo;1
 Fred;9
+Babalu;4
+Dengoso;3
